@@ -1,2 +1,1 @@
-console.log("Hello,Git");
-conlole.log("add,hello");
+console.log("自分");
